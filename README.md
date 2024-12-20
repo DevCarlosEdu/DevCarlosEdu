@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlos__alvs)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DevCarlosEdu=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias que eu uso
 
