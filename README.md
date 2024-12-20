@@ -4,9 +4,9 @@ Me chamo Carlos Eduardo Alves Lourenço da Silva, tenho 18 ano e sou natural de 
 
 <a href="https://instagram.com/carlos__alvs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-**Na paixão pela tecnologia, cada novo aprendizado é uma chave para o futuro.**
+---
 
-###  Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -53,19 +53,10 @@ Me chamo Carlos Eduardo Alves Lourenço da Silva, tenho 18 ano e sou natural de 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DevCarlosEdu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosEdu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
