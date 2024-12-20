@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlos__alvs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosEdu&size_weight=0.5&count_weight=0.5)
+**Na paixão pela tecnologia, cada novo aprendizado é uma chave para o futuro.**
 
 ## Linguagens e Tecnologias
 
@@ -46,4 +46,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
-Na paixão pela tecnologia, cada novo aprendizado é uma chave para o futuro.
+
+### 📊 Estatísticas
+
+<p>
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosEdu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
