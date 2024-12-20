@@ -2,9 +2,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlos__alvs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosEdu&size_weight=0.5&count_weight=0.5 dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosEdu&size_weight=0.5&count_weight=0.5)
 
-## Tecnologias que eu uso
+## Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
