@@ -1,8 +1,15 @@
 ## 👨‍💻 Carlos Eduardo
 
 Me chamo Carlos Eduardo Alves Lourenço da Silva, tenho 18 ano e sou natural de Alagoas. Concluir o ensino médio no Sesi/Senai, com o curso de T.I(Técnico em informática para internet).
-
-[![image](https://github.com/user-attachments/assets/0fbe29d1-fd9a-4180-b1d1-bd182bf42c64/width="30px" )](https://instagram.com/carlos__alvs)
+https://github.com/user-attachments/assets/0fbe29d1-fd9a-4180-b1d1-bd182bf42c64
+<img <a href="https://instagram.com/carlos__alvs"></a>
+    align="left" 
+    alt="insta"
+    title="Instagram" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/0fbe29d1-fd9a-4180-b1d1-bd182bf42c64" 
+/>
 
 ###  Linguagens e Tecnologias
 
