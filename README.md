@@ -4,8 +4,6 @@
 
 Me chamo Carlos Eduardo Alves Lourenço da Silva, tenho 18 anos e sou natural de Alagoas. Concluir o ensino médio no Sesi/Senai, com o curso de T.I(Técnico em informática para internet).
 
-<a href="https://instagram.com/carlos__alvs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
