@@ -50,14 +50,6 @@ Me chamo Carlos Eduardo Alves Lourenço da Silva, tenho 18 anos e sou natural de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Mysql" 
-    title="Mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
 <br>
 <br>
 ### 📊 Estatísticas
